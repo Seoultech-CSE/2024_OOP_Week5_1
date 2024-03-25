@@ -7,6 +7,14 @@ class CountNumbers {
 
     int number = input.nextInt();
 
-    // 
+    // processing numbers
+    while (______) {
+
+    }
+
+    // print counts
+    for (______) {
+      
+    }
   }
 }
