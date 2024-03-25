@@ -4,5 +4,9 @@ class CountNumbers {
     int[] counts = new int[50];
 
     System.out.print("Enter the integers : ");
+
+    int number = input.nextInt();
+
+    // 
   }
 }
